@@ -1,0 +1,14 @@
+{
+  "name": "sum-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react-native": "^0.76.0"
+  }
+}
